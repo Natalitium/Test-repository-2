@@ -1,6 +1,5 @@
 # cv
 
-| | |
 |--|--|
 | **Name** | Natallia Patorskaya |
 | **Position** | Junior Front-End Developer |
