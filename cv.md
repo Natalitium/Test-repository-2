@@ -27,7 +27,7 @@ personal skills, great energy and drive for results.
  - IT School MyFreedom, 2018
  - Rolling Scopes School, 2019 
  
-**English Level B2**  
+**English Level B2** 
 Minsk State Linguistic University
 Institute of Professional Development and Retraining
 Foreign Languages for managers and specialists faculty, 2012-2013
