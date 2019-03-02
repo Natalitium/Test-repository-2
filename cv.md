@@ -3,7 +3,7 @@
 ![](https://detskie-multiki.ru/uploads/posts/2017-09/1506518162_kesha.jpg)
 
 | | |
-|--|--|
+------------|-------------
 | **Name** | Natallia Patorskaya |
 | **Position** | Junior Front-End Developer |
 | **Contact** | +375297457654 +375444669343 n.patorskaya@gmail.com|
