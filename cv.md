@@ -8,7 +8,7 @@
 | **Position** | Junior Front-End Developer |
 | **Contact** | +375297457654 +375444669343 n.patorskaya@gmail.com|
 
-**Summary** 
+**Summary**
 Junior front-end developer with a small experience but a great zeal and 
 enthusiasm looking for a front-end programmer job. I got my first 
 programming education in Minsk State Higher Radio Technical College and 
@@ -22,7 +22,6 @@ personal skills, great energy and drive for results.
 Сourseworks and graduation work, other code. 
 
 **Education**   
-
  - Minsk State Higher Radio Technical College, 2003-2007
  - Institute of Contemporary Knowledge Shirokova, 2007-2012, 2017
  - IT School MyFreedom, 2018
