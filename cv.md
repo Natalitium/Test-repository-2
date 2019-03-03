@@ -13,7 +13,7 @@ Junior front-end developer with a small experience but a great zeal and
 enthusiasm looking for a front-end programmer job. I got my first 
 programming education in Minsk State Higher Radio Technical College and 
 then change a specialization and obtained a Master's Degree in Art 
-Management. This profession give the knowledge and skills are needed in 
+Management. This profession give me the knowledge and skills are needed in 
 programming sphere - understanding of project execution, efficiency and 
 team work, structured thinking and creativity. Mix of initial knowledge, 
 personal skills, great energy and drive for results. 
